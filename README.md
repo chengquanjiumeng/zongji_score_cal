@@ -10,7 +10,7 @@
 
 # 安装
   1.克隆这个仓库
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/chengquanjiumeng/zongji_score_cal.git
   
   2.安装所需的Python库
     
